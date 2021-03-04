@@ -1,0 +1,12 @@
+{
+    "agreement": 1,
+    "cardType": 1,
+    "amount": 20000,
+    "expirationDate": "2020-01-31",  
+    "storeId": 1037,
+    "dni": "111111111",
+    "sku": "26",
+    "order": 30991,
+    "subOrder": 2601
+}
+
